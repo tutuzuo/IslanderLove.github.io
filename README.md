@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 p h o t o r a m a 
 ====================
 
@@ -94,3 +95,8 @@ When you add a tag or a category name in the front matter of a post, don't forge
 ----------
 
 I hope you will find it useful for your projects, photographic or not.
+=======
+# IslanderLove.github.io
+OurTravels
+0
+>>>>>>> origin/master
